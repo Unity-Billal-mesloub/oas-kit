@@ -13,15 +13,11 @@ This is the mono-repo for the following related projects
 ## Documentation
 
 * [Main site](https://mermade.github.io/oas-kit)
-* [CHANGELOG](https://github.com/Mermade/oas-kit/blob/master/CHANGELOG.md#change-log)
+* [CHANGELOG](https://github.com/Unity-Billal-mesloub/oas-kit/blob/master/CHANGELOG.md#change-log)
 
 ## Online converter/validator
 
 * [OpenAPI-webconverter](https://mermade.org.uk/openapi-converter)
-
-## Supported Node.js versions
-
-Any LTS version. It is **not** recommended to use Node.js 12.17.x,12.18.x or 12.19.x due to an [http2 bug](https://github.com/nodejs/node/issues/28001).
 
 ## Development
 
